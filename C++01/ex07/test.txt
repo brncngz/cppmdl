@@ -1,0 +1,9 @@
+file di prova
+da questo file
+tutte le occorrenze
+della parola "vecchia"
+saranno cambiate nella
+parola "nuova"
+
+la vecchia vita era talmente brutta
+da volerla cambiare con una nuova
